@@ -1,3 +1,7 @@
+# Original author
+This project is a clone for other project from: https://github.com/HenrikBengtsson
+
+
 # speedtest-cli-extras
 
 The [speedtest-cli-extras] repository contains tools that enhance the
