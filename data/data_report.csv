@@ -1,0 +1,7 @@
+start;stop;from;from_ip;server;server_dist;server_ping;download;upload;share_url
+2019-09-02 21:46:43;2019-09-02 21:47:06;NET Virtua;191.177.186.240;ETH TELECOM (Curitiba);9.08 km;18.688 ms;49.00 Mbit/s;10.61 Mbit/s;http://www.speedtest.net/result/8556250036.png
+2019-09-02 21:47:21;2019-09-02 21:47:44;NET Virtua;191.177.186.240;Sitnet Provider (São José dos Pinhais);9.41 km;20.464 ms;46.45 Mbit/s;10.29 Mbit/s;http://www.speedtest.net/result/8556251054.png
+2019-09-02 21:47:59;2019-09-02 21:48:21;NET Virtua;191.177.186.240;Sitnet Provider (São José dos Pinhais);9.41 km;23.006 ms;45.00 Mbit/s;10.42 Mbit/s;http://www.speedtest.net/result/8556251894.png
+2019-09-02 21:50:12;2019-09-02 21:50:53;NET Virtua;191.177.186.240;COPEL TELECOM (Curitiba);10.42 km;24.172 ms;30.44 Mbit/s;10.71 Mbit/s;http://www.speedtest.net/result/8556255852.png
+2019-09-02 21:50:55;2019-09-02 21:51:34;NET Virtua;191.177.186.240;Sitnet Provider (São José dos Pinhais);9.41 km;19.826 ms;48.19 Mbit/s;8.03 Mbit/s;http://www.speedtest.net/result/8556256902.png
+2019-09-02 21:51:36;2019-09-02 21:51:47;NET Virtua;191.177.186.240;;;;;;
